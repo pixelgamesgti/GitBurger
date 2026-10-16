@@ -1,4 +1,4 @@
-# GitBurger
+# GitBurger
 
 Bienvenue chez **GitBurger !**
 
